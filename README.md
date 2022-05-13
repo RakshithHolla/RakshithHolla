@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RakshithHolla
 - 👀 I’m interested in web technologies, automotive stuffs
-- 🌱 I’m currently learning full stack development with react, node js, typescript, typeorm, postgresql, heroku
-- 💞️ I'm looking for a job in web role
+- 💞️ I'm looking for a job in web development roles
 - 📫 Reach me over my email rakshithholla31@gmail.com
 
 <!---
