@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RakshithHolla
-- 👀 I’m interested in web technologies, automotive stuffs
-- 💞️ I'm looking for a job in web development roles
-- 📫 Reach me over my email rakshithholla31@gmail.com
+🚀 Senior Systems Engineer at Infosys
+🎓 Bachelor of Engineering in Computer Science
+🛠️ Skills: JavaScript, React, Node.js, Cypress, Agile, Unit Testing, Git, Jira
+🔗 LinkedIn: https://www.linkedin.com/in/rakshith-holla/
 
 <!---
 RakshithHolla/RakshithHolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
