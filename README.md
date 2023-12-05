@@ -1,6 +1,9 @@
 🚀 Senior Systems Engineer at Infosys
+
 🎓 Bachelor of Engineering in Computer Science
+
 🛠️ Skills: JavaScript, React, Node.js, Cypress, Agile, Unit Testing, Git, Jira
+
 🔗 LinkedIn: https://www.linkedin.com/in/rakshith-holla/
 
 <!---
